@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - levelChange1
+  - Door
+  - Door2
+  - Door3
+  - Object
+  - Enemy
+  - Menu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Background
+  - Characters
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1438123341
+    locked: 0
+  - name: Foreground
+    uniqueID: 3672031171
+    locked: 0
+  - name: Characters
+    uniqueID: 135485697
+    locked: 0
